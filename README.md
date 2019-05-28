@@ -1,6 +1,8 @@
 # NutriNet
 A regression neural net to predict micro nutrient deficiencies
 # Author: Patrick Kamau
+# Training Error: 48.7%
+# Test Accuracy: 49.0%
 # Setup instructions
 The steps below will enable you to install and run this version of NutriNet  locally:
 Go to https://github.com/Cyberodd/NutriNet
